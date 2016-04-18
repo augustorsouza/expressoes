@@ -1,6 +1,6 @@
 # Expressões TOPE.
 
-## Esta é uma lista de expressões que julgamos serem engraçadas.
+## Esta é uma lista de expressões que julgamos ser engraçadas.
 
 * Quem tem fama deita na cama
 * Nove mulheres não fazem bebê em um 1 mês
