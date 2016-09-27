@@ -9,3 +9,5 @@
 * Vendendo o almoço pra comprar janta
 * Pra descarregar a espingarda, qualquer toco serve
 * Não é assim que a viola toca
+* Em terra de saci todo chute é voadora
+* Em terra de esqueleto toda fratura é exposta
